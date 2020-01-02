@@ -25,7 +25,7 @@ probability of players drawing card: 33%
 buildcards required: **3**
 
 ## [multiple games:](figures/arrangedsim.pdf)
-Here we simulate a 100 games per condition. the dots are the all resource on each action from all the games, the mean resource on that action is indicated by the black line. The coloured line indicates what percentage of games are still ongoing on that action. The barplot shows the amount of games won on that action.
+Here we simulate a 100 games per condition. the dots are the all resource on each action from all the games, the mean resource on that action is indicated by the black line. The coloured line indicates what percentage of games are still ongoing on that action. The barplot in the middle figure shows the amount of games won on that action. The barplots next to each sime summarizes how many games ended in victory or loss for the players.
 
 ### sim 1
 start resources: 30
