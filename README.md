@@ -8,7 +8,7 @@ We simulate some board games using two functions:
 
 it takes several inputs most important of which are the decks. Naturally this function is specific to the game being simulated. We run one simulation 12 times and plot the progression of the games in singlesim.pdf. We also run 4 simulations with different parameters a hundred times. arrangedsim.pdf shows the recourse loss, on which action are games won and the amount of games still active. 
 
-## single game:
+## [single game:](figures/singlesim.pdf)
 start resources: 30
 
 depletion per action: 1
@@ -21,9 +21,8 @@ probability of players drawing card: 33%
 
 buildcards required: **3**
 
-[singlesim.pdf](figures/singlesim.pdf)
-
-## game 1
+## [multiple games:](figures/arrangedsim.pdf)
+### game 1
 start resources: 30
 
 depletion per action: 1
@@ -36,7 +35,7 @@ probability of players drawing card: 33%
 
 buildcards required: 4
 
-## game 2
+### game 2
 start resources: **60**
 
 depletion per action: 1
@@ -49,7 +48,7 @@ probability of players drawing card: 33%
 
 buildcards required: 4
 
-## game 3
+### game 3
 start resources: 30
 
 depletion per action: **2**
@@ -62,7 +61,7 @@ probability of players drawing card: 33%
 
 buildcards required: 4
 
-## game 4
+### game 4
 start resources: 30
 
 depletion per action: **2**
@@ -74,8 +73,4 @@ players: 4
 probability of players drawing card: 33%
 
 buildcards required: 4
-
-[arrangedsim.pdf](figures/arrangedsim.pdf)
-
-
 
