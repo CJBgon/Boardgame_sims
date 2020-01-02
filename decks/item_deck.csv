@@ -1,0 +1,15 @@
+Card,type,power,amount
+Nano Virus,Build,0,7
+EMP Parts,Build,0,7
+Thermal Injectors,Build,0,7
+Keycard Pieces,Build,0,7
+EIFA,Defence,0,5
+Pistol,Defence,0,4
+Rifle,Defence,0,2
+Space Suit,Support,0,4
+Defibrillator,Support,0,3
+Adrenaline,Support,0,5
+Medicine,Support,0,7
+O2 3,Time,3,5
+O2 5,Time,5,5
+O2 7,Time,7,2
