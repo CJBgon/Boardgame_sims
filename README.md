@@ -20,7 +20,8 @@ players: 4
 probability of players drawing card: 33%
 
 buildcards required: **3**
-![alt text](figures/singlesim.pdf)
+
+[singlesim.pdf](figures/singlesim.pdf)
 
 ## game 1
 start resources: 30
@@ -74,6 +75,7 @@ probability of players drawing card: 33%
 
 buildcards required: 4
 
+[arrangedsim.pdf](figures/arrangedsim.pdf)
 
 
 
