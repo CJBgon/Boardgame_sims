@@ -16,7 +16,7 @@ probability of players drawing card: 33%
 buildcards required: 4
 
 ## game 2
-start resources: *60*
+start resources: **60**
 depletion per action: 1
 actions per player : 2
 players: 4
@@ -25,15 +25,16 @@ buildcards required: 4
 
 ## game 3
 start resources: 30
-depletion per action: *2*
+depletion per action: **2**
 actions per player : 2
 players: 4
 probability of players drawing card: 33%
 buildcards required: 4
 
-## start resources: 30
-depletion per action: *2*
-actions per player : *4*
+## game 4
+start resources: 30
+depletion per action: **2**
+actions per player : **4**
 players: 4
 probability of players drawing card: 33%
 buildcards required: 4
